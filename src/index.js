@@ -1,0 +1,12 @@
+import { Header } from './app/header';
+import { Footer } from './app/footer';
+import '../src/style.css';
+import './styles/main.scss';
+import logo from './assets/images/logo.png';
+let header = new Header();
+let firstHeading = header.getFirstHeading();
+console.log(firstHeading);
+let footer = new Footer();
+let footerText = footer.getFooterText();
+console.log(footerText);
+document.getElementById('logo').setAttribute('src', logo);
