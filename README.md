@@ -1,5 +1,7 @@
 # Webpack 4 Solution Template
 
+[![Build Status](https://dev.azure.com/TheNikhilK/TheNikhilK/_apis/build/status/Webpack4%20Template?branchName=master)](https://dev.azure.com/TheNikhilK/TheNikhilK/_build/latest?definitionId=2&branchName=master) [![Release Status](https://vsrm.dev.azure.com/TheNikhilK/_apis/public/Release/badge/bb0a4e04-afca-4551-8acd-9a8a4ee21621/2/2)](https://vsrm.dev.azure.com/TheNikhilK/_apis/public/Release/badge/bb0a4e04-afca-4551-8acd-9a8a4ee21621/2/2)
+
 ![Logo](src/assets/images/logo.png "Logo")
 
 ## Introduction
